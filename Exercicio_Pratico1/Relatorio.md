@@ -6,7 +6,7 @@ Implementação de uma Lista Simplesmente Ligada em JAVA para gestão de alunos.
 
 O exercício tem como principal objetivo aplicar os conceitos de:
 
-- Programação Orientada a Objetos (POO)
+- Conceção e Análise de Algoritmos (CAA)
 - Estrutura de Dados
 - Lista Simplesmente Ligada
 - Manipulação dinâmica de memória
@@ -23,8 +23,8 @@ O programa é composto por três classes principais:
 |Aluno	     |Representa cada aluno                      |
 |ListaLigada |Implementa a lista simplesmente ligada     |
 |Principal	 |Contém o menu e interação com o utilizador |
----
 
+---
 # Classe Aluno
 A classe Aluno representa os dados de cada estudante.
 
