@@ -6,7 +6,6 @@ Implementação de uma Lista Simplesmente Ligada em JAVA para gestão de alunos.
 
 O exercício tem como principal objetivo aplicar os conceitos de:
 
-- Conceção e Análise de Algoritmos (CAA)
 - Estrutura de Dados
 - Lista Simplesmente Ligada
 - Manipulação dinâmica de memória
